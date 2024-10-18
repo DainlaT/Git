@@ -9,6 +9,7 @@ namespace Git
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Newline");
+            Console.WriteLine("Nice commit");
         }
     }
 }
