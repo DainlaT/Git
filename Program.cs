@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Git
 {
     internal class Program
@@ -7,6 +8,7 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Newline");
         }
     }
 }
