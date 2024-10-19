@@ -14,6 +14,7 @@ namespace Git
             Console.WriteLine("Hmmm its true?");
             Console.WriteLine("Danger")
             Console.WriteLine("there is an error in the previous line");
+            Console.WriteLine("Have you corrected the error?");
         }
     }
 }
