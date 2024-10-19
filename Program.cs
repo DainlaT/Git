@@ -11,6 +11,7 @@ namespace Git
             Console.WriteLine("This line master");
             Console.WriteLine("Newline");
             Console.WriteLine("Nice commit");
+            Console.WriteLine("Hmmm its true?");
         }
     }
 }
